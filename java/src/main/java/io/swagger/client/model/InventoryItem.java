@@ -28,7 +28,7 @@ import org.threeten.bp.OffsetDateTime;
  * InventoryItem
  */
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2021-02-22T06:31:31.166Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2021-02-22T06:33:39.761Z[GMT]")
 public class InventoryItem {
   @SerializedName("id")
   private UUID id = null;
